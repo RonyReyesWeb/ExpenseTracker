@@ -16,7 +16,7 @@ My purpose for writing this software was to learn how a program builds SQL
 commands, sends them to a database, receives the results, and uses those
 results to show useful information to the user.
 
-[Software Demo Video]()
+[Software Demo Video](https://www.youtube.com/watch?v=lA5UtVAl-TI&feature=youtu.be)
 
 # Relational Database
 
